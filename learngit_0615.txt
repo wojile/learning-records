@@ -7,3 +7,5 @@ This .txt aims to try to add file to Git
 
 Git is a distributed version control system.
 Git is free software.
+
+try to fix commit comment.
