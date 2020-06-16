@@ -1,0 +1,11 @@
+June 15th 2020
+Summer
+First day of pre-enterprise-internship.
+Aujourd’hui learning git.
+
+This .txt aims to try to add file to Git
+
+Git is a distributed version control system.
+Git is free software.
+
+try to fix commit comment.
